@@ -2,7 +2,7 @@ import anthropic
 import os
 
 # --- 1. SETUP ---
-API_KEY = "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" 
+API_KEY = " " 
 
 # Create the client that will carry our messages to Claude
 client = anthropic.Anthropic(api_key=API_KEY)
